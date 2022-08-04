@@ -67,7 +67,7 @@ docker-compose exec web python manage.py loaddata dump.json
 ```
 
 ## Примеры:
-Проект доступен по [localhost](http://localhost/)
+Проект доступен по адресу [localhost](http://localhost/)
 
 Регистрация новго пользователя.
 
